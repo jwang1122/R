@@ -1,0 +1,29 @@
+<CDS>
+<CD>
+<SONG>Dil diya galla</SONG>
+<ARTIST>Arijith Singh</ARTIST>
+<COUNTRY>India</COUNTRY>
+<COMPANY>Tseries</COMPANY>
+<PRICE>10.90</PRICE>
+<YEAR>2018</YEAR>
+</CD>
+
+<CD>
+<SONG>Saiyara</SONG>
+<ARTIST>Atif Aslam</ARTIST>
+<COUNTRY>Uk</COUNTRY>
+<COMPANY>Records</COMPANY>
+<PRICE>9.90</PRICE>
+<YEAR>2015</YEAR>
+</CD>
+
+<CD>
+<SONG>Khairiyat</SONG>
+<ARTIST>Sonu Nigam</ARTIST>
+<COUNTRY>India</COUNTRY>
+<COMPANY>Radio</COMPANY>
+<PRICE>9.90</PRICE>
+<YEAR>2014</YEAR>
+</CD>
+
+</CDS>
